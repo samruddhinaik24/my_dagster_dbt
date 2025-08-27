@@ -2,5 +2,6 @@ dagster-cloud
 dagster
 dbt-core
 dagster-dbt
+dagster_cloud_cli
 
 
