@@ -2,4 +2,4 @@ locations:
   - location_name: dagster_and_dbt
     working_directory: ./src/
     code_source:
-      package_name: src.dagster_and_dbt.definitions
+      package_name: dagster_and_dbt.definitions
