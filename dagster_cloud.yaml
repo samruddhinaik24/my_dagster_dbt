@@ -5,4 +5,4 @@ locations:
       package_name: dagster_and_dbt.definitions
 
 deployment:
-  python_version: "3.11"
+  python_version: ">=3.11"
