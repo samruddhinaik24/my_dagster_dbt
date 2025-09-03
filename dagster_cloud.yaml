@@ -3,3 +3,6 @@ locations:
     working_directory: ./src/
     code_source:
       package_name: dagster_and_dbt.definitions
+
+deployment:
+  python_version: "3.11"
